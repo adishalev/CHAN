@@ -1,4 +1,4 @@
-# HAN_dtnps
+# CHAN - Conversational Hierarchical Attention Networks for predictinng tNPS
 this repository contains the code for the paper: Derived transactional Net Promoter Score Prediction
 
 # Abstract
